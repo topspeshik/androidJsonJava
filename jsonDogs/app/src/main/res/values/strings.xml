@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">jsonDogs</string>
+    <string name="next_image">Next image</string>
+    <string name="errorLoading">Ошибка при загрузке</string>
+</resources>
